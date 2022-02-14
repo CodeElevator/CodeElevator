@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodeElevator
 - 👀 I’m interested in nothing.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a website (surprise)
-- 📫 How to reach me Instagram: nomcustom101
+- 🌱 I’m currently learning Go and Php.
+- 💞️ I’m looking to collaborate on a website (surprise).
+- 📫 How to reach me Instagram: nomcustom101.
 
 I Worked on:
 

@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on a website (surprise).
 - 📫 How to reach me Instagram: nomcustom101.
 
+### My most used languages in photos:
+
+<code><img height="30" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"/></code>
+
 I Worked on:
 
 - 🧶 3 Websites
@@ -17,8 +21,7 @@ I Worked on:
 
 <img alt="My stats on github" src="https://github-readme-stats.vercel.app/api?username=CodeElevator&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img alt="Les langages que j'utilise le plus" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeElevator&show_icons=true&theme=tokyonight&layout=compact" />
-
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeElevator&show_icons=true&theme=tokyonight&layout=compact" />
 
 <!---
 CodeElevator/CodeElevator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

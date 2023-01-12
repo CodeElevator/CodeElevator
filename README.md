@@ -19,9 +19,9 @@ I Worked on:
 - 📖 Just some learnings
 
 
-<img alt="My stats on github" src="https://github-readme-stats.vercel.app/api?username=CodeElevator&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img alt="My stats on github" src="https://github-readme-stats.vercel.app/api?user=CodeElevator&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeElevator&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?user=CodeElevator&show_icons=true&theme=tokyonight&layout=compact" />
 
 <!---
 CodeElevator/CodeElevator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

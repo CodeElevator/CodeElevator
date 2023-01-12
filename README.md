@@ -21,8 +21,6 @@ I Worked on:
 
 <img alt="My stats on github" src="https://github-readme-stats.vercel.app/api?username=CodeElevator&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeElevator&show_icons=true&theme=tokyonight&layout=compact" />
-
 <!---
 CodeElevator/CodeElevator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

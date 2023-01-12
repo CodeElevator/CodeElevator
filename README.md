@@ -19,7 +19,7 @@ I Worked on:
 - 📖 Just some learnings
 
 
-<img alt="My stats on github" src="https://github-readme-stats.vercel.app/api?username=CodeElevator&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img alt="My stats on github" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeElevator&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 <!---
 CodeElevator/CodeElevator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
